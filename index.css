@@ -1,0 +1,196 @@
+body{
+  box-shadow: 5px 5px 5px lightgray;
+  background-color: cornsilk;
+  
+  
+
+  
+
+
+}
+body input,select{
+  border:none;
+  
+}
+body input,select:hover{
+  border:none;
+  
+}
+
+body input,select{
+  border-bottom: 2px solid orange;
+  
+  
+}
+
+
+                 
+nav{
+   display: flex;
+   align-items: center;
+   justify-content:space-between;
+   width: 85%;
+   margin: auto;
+   
+  
+  
+   
+   
+  
+
+}
+nav .logo img{
+  height: 100px;
+  width: 100px;
+}
+.logo{
+  
+  display: flex;
+  align-items: center;
+}
+.liens{
+  display: flex;
+  align-items: center;
+  
+  }
+.liens p{
+  margin-right: 30px;
+
+}
+.liens select{
+  margin-right: 10px;
+}
+  
+.title{
+  
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: black;
+  
+  color: white;
+  padding-left: 20px;
+  width: 85%;
+  margin:auto;
+  margin-top: 10px;
+  
+  
+}
+.title h2{
+  margin-left: 10px;
+}
+
+.separation hr{
+  border: 3px solid gray;
+  width: 90%;
+  margin:auto;
+  
+}
+.etat{
+  
+  width: 85%;
+  margin:auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  
+}
+.etat .trash p{
+ margin-top: 20px;
+ 
+}
+aside{
+   
+   width: 15%;
+
+}
+aside .owner0 p{
+  margin-top: 0;
+}
+aside .owner1 p{
+  margin-top: 190px;
+}
+aside .owner2 p{
+  margin-top: 530px;
+}
+aside .owner3 p{
+  margin-top: 40px;
+}
+.content{
+  
+  width: 85%;
+}
+.type{
+  display: flex;
+  margin-top: 20px;
+  
+  
+}
+.civilité{
+  margin-top: 20px;
+}
+.first{
+  width: 170px;
+}
+.third{
+  width: 350px;
+}
+.immatriculation{
+  display: flex;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  margin-top:  20px;
+  
+
+}
+.button button{
+  width: 850px;
+  margin-left: -120px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+main{
+   
+   display: flex;
+   width: 85%;
+   margin: auto;
+   margin-top: 20px;
+   
+   
+
+}
+main select{
+
+}
+footer{
+   
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 85%;
+   margin: auto;
+   
+  
+   
+}
+.footer{
+  display: flex;
+  margin-left: 10px;
+  
+  
+}
+.footer p{
+  margin-right: 40px;
+}
+.reseaux-sociaux{
+  display: flex;
+  margin-right: 10px;
+}
+.reseaux-sociaux p{
+  margin-left: 40px;
+}
